@@ -1,0 +1,2 @@
+flow:
+  - say: "Hello, I am your config-based ADK agent!"
